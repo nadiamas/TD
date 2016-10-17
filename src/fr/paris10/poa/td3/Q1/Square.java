@@ -1,4 +1,4 @@
-package fr.paris10.poa.td3;
+package fr.paris10.poa.td3.Q1;
 
 /**
  * Created by nadia on 10/10/2016.
